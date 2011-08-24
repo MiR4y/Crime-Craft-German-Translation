@@ -30,7 +30,7 @@ Message[3]=-  Drücke R um die Waffe nachzuladen
 Message[4]=-  Drücke die Rechte Maustaste um mit deiner ausgerüsteten Waffe zu zielen.
 Message[5]=-  Drücke die Leertaste um eine Ausweichrolle durchzuführen
 Message[6]=-  Halte die linke Shift-Taste gedrückt um zu Sprinten
-Message[7]=-  Halte die linke Strg-Taste gedrückt um zu kriechen
+Message[7]=-  Halte die linke Strg-Taste gedrückt um in die Hocke zu gehen und zu kriechen
 Message[8]=-  Drücke F1 um eine Splittergranate zu werfen
 Message[9]=-  Drücke F2 um dein Tarnsystem zu aktivieren
 
@@ -49,117 +49,117 @@ TutorialStartScreen_22=JUNGEL
 [CCTutorialInstController1]
 Popups[0]=Drücke <c=ffbe00>W<c=ffffff> zum vorwärts gehen, <c=ffbe00>S<c=ffffff> zum rückwärts gehen, <c=ffbe00>A<c=ffffff> für einen Schritt nach links, und <c=ffbe00>D<c=ffffff> für einen Schritt nach rechts. (Standard Belegung)
 Popups[1]=Drücke die <c=ffbe00>Linke Maustaste<c=ffffff> um deine ausgerüstete Waffe mit der abzufeuern. (Standard Belegung)
-Popups[2]=Press <c=ffbe00>R<c=ffffff> um deine ausgerüstete Waffe nachzuladen. (Standard Belegung)
-Popups[3]=Press <c=ffbe00>Right Mouse button<c=ffffff> to aim with your currently equipped weapon by default.
-Popups[4]=Press <c=ffbe00>Space<c=ffffff> while moving to roll quickly in one direction by default.
-Popups[5]=Press <c=ffbe00>L Shift<c=ffffff> while moving to sprint by default.
-Popups[6]=Press <c=ffbe00>Ctrl<c=ffffff> to crouch by default. Crouching allows better accuracy.
+Popups[2]=Drücke <c=ffbe00>R<c=ffffff> um deine ausgerüstete Waffe nachzuladen. (Standard Belegung)
+Popups[3]=Drücke die <c=ffbe00>Rechte Maustaste<c=ffffff> um deiner ausgerüstete Waffe zu zielen. (Standard Belegung)
+Popups[4]=Drücke die <c=ffbe00>Leertaste<c=ffffff> um eine Ausweichrolle in eine bestimmte Richtung zu machen. (Standard Belegung)
+Popups[5]=Drücke die <c=ffbe00>Linke Shift-Taste<c=ffffff> um zu sprinten.(Standard Belegung)
+Popups[6]=Drücke die <c=ffbe00>Strg-Taste<c=ffffff> um in die Hocke zu gehen und zu kriechen. In der Hocke kannst du besser zielen. (Standard Belegung)
 
 [CCTutorialInstController2]
-Popups[0]=Press <c=ffbe00>Space<c=ffffff> while moving to roll quickly in one direction by default.
-Popups[1]=Press <c=ffbe00>L Shift<c=ffffff> while moving to sprint by default.
-Popups[2]=Press <c=ffbe00>Ctrl<c=ffffff> to crouch by default. Crouching allows better accuracy.
+Popups[0]=Drücke die <c=ffbe00>Leertaste<c=ffffff> um eine Ausweichrolle in eine bestimmte Richtung zu machen. (Standard Belegung)
+Popups[1]=Drücke die <c=ffbe00>Linke Shift-Taste<c=ffffff> um zu sprinten.(Standard Belegung)
+Popups[2]=Drücke die <c=ffbe00>Strg-Taste<c=ffffff> um in die Hocke zu gehen und zu kriechen. In der Hocke kannst du besser zielen. (Standard Belegung)
 
 [CCTutorialInstController3]
-Popups[0]=Press <c=ffbe00>F1<c=ffffff>-<c=ffbe00>F3<c=ffffff> to activate the skill assigned to that slot by default.
-Popups[1]=To collect an item, stand over it until the counter expires.
-Popups[2]=Objectives are indicated by question marks on the radar.
-Popups[3]=Objective can be located on different floors.  Be sure to check all elevations.
+Popups[0]=Drücke <c=ffbe00>F1<c=ffffff>-<c=ffbe00>F3<c=ffffff> um den Skill, auf dem zugewiesenen Slot, zu aktivieren. (Standard Belegung)
+Popups[1]=Um ein Item einzusammeln, bleibe einfach darauf stehen, bis der Counter abgelaufen ist.
+Popups[2]=Ziele sind durch Fragezeichen auf der Karte markiert.
+Popups[3]=Ziele können sich auf verschiedenen Etagen befinden.  Gehe sicher das du alle durchsuchst.
 
 [CCTutorialInstController4]
-Popups[0]=Press <c=ffbe00>1<c=ffffff>-<c=ffbe00>3<c=ffffff> to select the weapon assigned to that slot by default. You can also use the mouse wheel.
-Popups[1]=Important locations are indicated by question marks on the radar.
-Popups[2]=Stand inside the landmark to complete the current goal.
+Popups[0]=Drücke <c=ffbe00>1<c=ffffff>-<c=ffbe00>3<c=ffffff> um die Waffe, die auf dem zugewiesenen Slot liegt, auszurüsten. Dafür kannst du auch das Mausrad benutzen. (Standard Belegung)
+Popups[1]=Wichtige Orte sind durch Fragezeichen auf der Karte markiert.
+Popups[2]=Stelle dich in die Markierungen um das aktuelle Ziel zu beenden.
 
 [CCTutorialInstController5]
-Popups[0]=Press <c=ffbe00>E<c=ffffff> to perform a melee attack by default.
-Popups[1]=Some containers contain valuable loot.
+Popups[0]=Drücke <c=ffbe00>E<c=ffffff> um einen Nahkampfangriff durchzuführen. (Standard Belegung)
+Popups[1]=Manchmal enthalten Container verschiedene Gegenstände die du aufsammeln kannst.
 
 [CCTutorialInstController8]
-Popups[0]=Press <c=ffbe00>F4-F5<c=ffffff> to use the boost equipped in that slot by default.
+Popups[0]=Drücke <c=ffbe00>F4-F5<c=ffffff> um die verstärkenden Ausrüstung, die auf dem zugewiesenen Slot liegt, zu aktivieren.
 
 [CCTutorialMenuPopUps]
-Q_OpenCharacter=Click to open Character menu
-Q_OpenAbilities=Click to open Skills menu
-Q_OpenCraft=Click to open Crafting menu
-Q_OpenMissions=Click to open Missions menu
-Q_OpenMap=Click to open Map
-Q_OpenQuickJoin=Click to open Quick Join menu
-Q_OpenRepair=Click to open Repair Service
-I_Intro=This will be stored in your backpack
-I_SellItem=Select the trigger
-I_EquipWeapon=Select the shotgun
-I_EquipDrug=Select the boost
-I_EquipAUG=Select the crafted AUG
-I_EquipBullets=Select the bullets
-I_Gold=Your current cash
-I_Skill=You got a skill point for leveling up
-I_SkillSpent=You'll get more skill points with each new level
-I_CustomizeWeapon=RIGHT click on the pistol to customize it
-I_CustomizeAttach=Click the attachment
-S_Mission_Goal=The mission goal
-S_Mission_Accept=Click to accept the mission
-S_Mission_Complete=Click to complete the mission
-S_Mission_Reward=The reward item
-S_Mission_Scroll=Scroll to see more text
-S_Instance_Inst=Select the battle
-S_Instance_Fight=Click to begin the battle
-S_Skill_Skill=Select a skill
-S_Skill_Skill2=The number in the corner indicates how many points the skill costs
-S_Skill_Learn=Click to learn the skill
-S_Skill_Learn2=Learn the selected skill
-S_Trade_Item=Select this item
-S_Trade_Buy=Click to buy it
-S_Trade_Sell=Drop an item here to sell it
+Q_OpenCharacter=Klicke hier um das Character Menü zu öffnen
+Q_OpenAbilities=Klicke hier um das Skill Menü zu öffnen
+Q_OpenCraft=Klicke hier um das Crafting Menü zu öffnen
+Q_OpenMissions=Klicke hier um das Missions Menü zu öffnen
+Q_OpenMap=Klicke hier um die Karte zu öffnen
+Q_OpenQuickJoin=Klicke hier um das "Schnelle Spiel" Menü zu öffnen
+Q_OpenRepair=Klicke hier um den Reparaturservice zu öffnen
+I_Intro=Das wird in deinem Rucksack gelagert.
+I_SellItem=Wähle den Auslöser
+I_EquipWeapon=Wähle die Schrotflinte
+I_EquipDrug=Wähle die Verstärkung
+I_EquipAUG=Wähle die verbesserte AUG
+I_EquipBullets=Wähle die Kugeln
+I_Gold=Dein aktuelles Geld
+I_Skill=Du hast einen Skill-Punkt für den Levelaufstieg bekommen
+I_SkillSpent=Mit jedem neuen Level bekommst du neue Skill-Punkte
+I_CustomizeWeapon=Rechts Klick auf die Pistole um sie anzupassen
+I_CustomizeAttach=Klicke hier auf den Aufsatz
+S_Mission_Goal=Das Missionsziel
+S_Mission_Accept=Klicke hier um die Mission zu akzeptieren
+S_Mission_Complete=Klicke hier um die Mission abzuschließen
+S_Mission_Reward=Die Belohnung
+S_Mission_Scroll=Scrolle um mehr Text zu sehen
+S_Instance_Inst=Wähle den Kampf
+S_Instance_Fight=Klicke hier um den Kampf zu beginnen
+S_Skill_Skill=Wähle einen Skill
+S_Skill_Skill2=Die Nummer in der Ecke zeigt an, wie viele Punkte du für den Skill benötigst.
+S_Skill_Learn=Klicke hier um den Skill zu lernen.
+S_Skill_Learn2=Lerne den ausgewählten Skill
+S_Trade_Item=Wähle das Item
+S_Trade_Buy=Klicke hier um es zu kaufen
+S_Trade_Sell=Ziehe ein Item hier hin, um es zu verkaufen
 S_Trade_smg=SMG
-S_Trade_assault=Assault Rifle
-S_Repair_Repair=Click to repair an item
-S_Craft_Profession=Select a profession
-S_Craft_Learn=Click to study it
-S_Craft_Recipe=Select a recipe
-S_Craft_Buy=Buy it
-S_Mail_List=Your message list
-S_Mail_Attach=Take the attachment
-S_Mail_Delete=Delete the message
-S_Jobs_Select=Select a job
-S_Jobs_Accept=Accept it
-S_Jobs_SelectDone=Select a finished job
-S_Jobs_Complete=Complete it
-S_Jobs_More=You can take several jobs at once
-S_Jobs_Close=Click here or press TAB to exit
-S_Craft_ProffSelect=Select the 1st level of the profession
-S_Craft_ProffLearn=Learn it
-S_Craft_RecipeSelect=Select this recipe
-S_Craft_RecipeLearn=Learn it
-S_Craft_RecipeRed=Practice your craft to unlock red recipes
-C_Character_Weapon=Drop it here
-C_Character_Drug=Drop it here
-C_Character_AUG=Drop it here
-C_Character_Bullets=Drop it here
-C_Character_SlotSMG=Slot for Pistols and SMGs
-C_Character_SlotAR=Slot for Shotguns and Assault Rifles
-C_Skills_Skill=Select the skill you just learned
-C_Skill_Skill2=Select the skill you just learned
-C_Skill_Skill3=Select a skill
-C_Skill_Skill4=Click to learn it
-C_Skill_Skill5=Choose a skill you like to learn
-C_Skills_Equip=Drop it here to equip
-C_Skills_Equip2=Drop it here
-C_Craft_Recipe=Select the recipe
-C_Craft_Create=Create the item
-C_QuickJoin_Inst=Select the battle
-C_QuickJoin_Join=Click to join the selected battle
-C_Map_Help=Click to bring up more help info
-C_Customize=Drop it here
-C_Craft_Select=Select a recipe
-C_Craft_Ingredients=Make sure you have the correct ingredients
-C_Craft_Craft=Craft the item
-C_Craft_Ingredients2=Check what ingredients you have to buy
+S_Trade_assault=Sturmgewehr
+S_Repair_Repair=Klicke hier um ein Item zu reparieren
+S_Craft_Profession=Wähle einen Beruf
+S_Craft_Learn=Klicke hier um es zu studieren
+S_Craft_Recipe=Wähle ein Rezept
+S_Craft_Buy=Kaufe es
+S_Mail_List=Deine Nachrichtenliste
+S_Mail_Attach=Nehme den Aufsatz
+S_Mail_Delete=Lösche die Nachricht
+S_Jobs_Select=Wähle einen Job
+S_Jobs_Accept=Akzeptiere ihn
+S_Jobs_SelectDone=Wähle einen beendeten Job
+S_Jobs_Complete=Beende ihn
+S_Jobs_More=Du kannst mehrere Jobs mit einmal auswählen
+S_Jobs_Close=Klicke hier oder drücke tab um zu beenden
+S_Craft_ProffSelect=Wähle Level 1 von dem Beruf
+S_Craft_ProffLearn=Lerne es
+S_Craft_RecipeSelect=Whäle das Rezept
+S_Craft_RecipeLearn=Lerne es
+S_Craft_RecipeRed=Trainiere deine Fähigkeiten um rote Rezepte freizuschalten
+C_Character_Weapon=Lasse es hier fallen
+C_Character_Drug=Lasse es hier fallen
+C_Character_AUG=Lasse es hier fallen
+C_Character_Bullets=Lasse es hier fallen
+C_Character_SlotSMG=Slot für die Pistolen und SMGs
+C_Character_SlotAR=Slot für die Schrotflinten und Sturmgewehre
+C_Skills_Skill=Wähle den Skill den du gelernt hast
+C_Skill_Skill2=Wähle den Skill den du gelernt hast
+C_Skill_Skill3=Wähle einen Skill
+C_Skill_Skill4=Klicke hier um ihn zu lernen
+C_Skill_Skill5=Wähle den Skill den du lernen möchtest
+C_Skills_Equip=Lasse ihn hier fallen, um ihn auszurüsten
+C_Skills_Equip2=Lasse es hier fallen
+C_Craft_Recipe=Wähle das Rezept
+C_Craft_Create=Erstelle ein Item
+C_QuickJoin_Inst=Wähle den Kampf
+C_QuickJoin_Join=Klicke hier um dem Kampf beizutreten
+C_Map_Help=Klicke hier um mehr Hilfsinformationen zu erhalten
+C_Customize=Lasse es hier fallen
+C_Craft_Select=Wähle ein Rezept
+C_Craft_Ingredients=Stelle sicher das du die korrekten Zutaten benutzt
+C_Craft_Craft=Fertige das Item an
+C_Craft_Ingredients2=Überprüfe welche Zutaten du kaufen musst
 
 
 [UICombatLog_Console]
 Caption_InstanceStart=InstanceStart
-Caption_CombatLog=Combat Log
+Caption_CombatLog=Gefechtsaufzeichnung
 
 [CCTutorialLobbyReminders]
 PU_001=Press <c=ffbe00>W<c=ffffff> to move forward, <c=ffbe00>S<c=ffffff> to move backward, <c=ffbe00>A<c=ffffff> to step left, and <c=ffbe00>D<c=ffffff> to step right by default.
