@@ -10,36 +10,36 @@ ConnectingToLobbyMessage=Laden...
 ConnectingToInstanceMessage=Laden...
 
 [CCBaseController]
-ServerNotRespondingMsg=Unable to connect to server
+ServerNotRespondingMsg=Verbindung zum Server kann nicht hergestellt werden
 ServerNotRespondingTitle=Zeitüberschreitung
-ConnectionLostMsg=Internet connection lost. Please check your connection.
-ConnectionLostTitle=internetverbindung verloren
+ConnectionLostMsg=Internetverbindung verloren. Bitte prüfe deine Verbindung.
+ConnectionLostTitle=Internetverbindung verloren
 BleedOutMoviesMessage=To watch BleedOut videos for the next episodes you will need to download them (size is about 750m). If you choose yes, the game will exit and your download will begin now.
 LightVersionMsg=To access this location you need to have full game client version. You can download it with CrimeCraft launcher. When download is finished game needs to be restarted.
 
 [CCLobbyController]
-TournamentHaventPassMsg=You don't have a Tournament Pass, and you are enable to purchase one at the moment
-BuyTournamentPassQuestion=You now can purchase a Tournament Pass, it costs: %PassCost%
-SubscribedNotTournamentInstanceCaption=%InstanceTitle% is not a Tournament Battle zone 
+TournamentHaventPassMsg=Du hast im Moment kein Turnierticket, kannst dir aber eins kaufen
+BuyTournamentPassQuestion=Du kannst dir nun ein Turnierticket kaufen. Es kostet dich %PassCost%
+SubscribedNotTournamentInstanceCaption=%InstanceTitle% ist kein Turnier Kampfplatz 
 
 [FisrtLoadingScreen]
-Message[0]=Be ready. You are entering your first combat. The players with red names above their heads are your enemies and want you dead - kill them before they kill you.
-Message[1]=-  Press W, S, A and D to move your character
-Message[2]=-  Press Left Mouse Button to fire your currently equipped weapon
-Message[3]=-  Press R to reload the weapon
-Message[4]=-  Press Right Mouse Button to aim your currently equipped weapon
-Message[5]=-  Press Space while moving to roll
-Message[6]=-  Press and hold Left Shift while moving to sprint
-Message[7]=-  Press and hold Left Ctrl to crouch
-Message[8]=-  Press F1 to throw the fragmentation grenade
-Message[9]=-  Press F2 to activate your camouflage system
+Message[0]=Sei bereit. Du befindest dich nun in deinem ersten Kampf. Die Spieler mit dem roten Namen über den Köpfen sind deine Gegner und wollen dich Tod sehen. - Töte sie bevor sie dich töten.
+Message[1]=-  Benutzte W, A, S und D um mit deinem Charakter zu laufen
+Message[2]=-  Drücke die Linke Maustaste um deine ausgerüstete Waffe abzufeuern.
+Message[3]=-  Drücke R um die Waffe nachzuladen
+Message[4]=-  Drücke die Rechte Maustaste um mit deiner ausgerüsteten Waffe zu zielen.
+Message[5]=-  Drücke die Leertaste um eine Ausweichrolle durchzuführen
+Message[6]=-  Halte die linke Shift-Taste gedrückt um zu Sprinten
+Message[7]=-  Halte die linke Strg-Taste gedrückt um zu kriechen
+Message[8]=-  Drücke F1 um eine Splittergranate zu werfen
+Message[9]=-  Drücke F2 um dein Tarnsystem zu aktivieren
 
 
 [TutorialSystem]
-SkipTutorialMessage=Somebody on the inside has an eye on you, and has offered to sponsor your citizenship immediately.  Do you want to skip Orientation and proceed directly into the city?
-SkipTutorialConfirmMessage=You will be teleported to another lobby and won't be able to return. Select Yes to confirm.
+SkipTutorialMessage=Jemand von Drinnen hat ein Auge auf dich geworfen und hat dir Angeboten, deine Kosten für die Staatsbürgerschaft sofort zu übernehmen. Willst du den Orientierungskurs überspringen und sofort in die Stadt wechseln?
+SkipTutorialConfirmMessage=Du wirst in eine andere Lobby teleportiert und es wird dir nicht möglich sein zurückzukehren. Wähle Ja um zuzustimmen.
 TutorialStartScreen_10=Sunrise City Refugee Orientation Center.
-TutorialStartScreen_11=8 years, 9 months, 3 weeks since The Big Bleedout.
+TutorialStartScreen_11=8 Jahre, 9 Monate, 3 Wochen nach dem großen Bleedout.
 TutorialStartScreen_12=3:28 Uhr  Montag.
 TutorialStartScreen_20=WILLKOMMEN
 TutorialStartScreen_21=IM
