@@ -47,9 +47,9 @@ TutorialStartScreen_22=JUNGEL
 
 
 [CCTutorialInstController1]
-Popups[0]=Press <c=ffbe00>W<c=ffffff> to move forward, <c=ffbe00>S<c=ffffff> to move backward, <c=ffbe00>A<c=ffffff> to step left, and <c=ffbe00>D<c=ffffff> to step right by default.
-Popups[1]=Press <c=ffbe00>Left Mouse button<c=ffffff> to fire your currently equipped weapon by default.
-Popups[2]=Press <c=ffbe00>R<c=ffffff> to reload your currently equipped weapon by default.
+Popups[0]=Drücke <c=ffbe00>W<c=ffffff> zum vorwärts gehen, <c=ffbe00>S<c=ffffff> zum rückwärts gehen, <c=ffbe00>A<c=ffffff> für einen Schritt nach links, und <c=ffbe00>D<c=ffffff> für einen Schritt nach rechts. (Standard Belegung)
+Popups[1]=Drücke die <c=ffbe00>Linke Maustaste<c=ffffff> um deine ausgerüstete Waffe mit der abzufeuern. (Standard Belegung)
+Popups[2]=Press <c=ffbe00>R<c=ffffff> um deine ausgerüstete Waffe nachzuladen. (Standard Belegung)
 Popups[3]=Press <c=ffbe00>Right Mouse button<c=ffffff> to aim with your currently equipped weapon by default.
 Popups[4]=Press <c=ffbe00>Space<c=ffffff> while moving to roll quickly in one direction by default.
 Popups[5]=Press <c=ffbe00>L Shift<c=ffffff> while moving to sprint by default.
