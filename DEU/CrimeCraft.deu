@@ -162,19 +162,19 @@ Caption_InstanceStart=InstanceStart
 Caption_CombatLog=Gefechtsaufzeichnung
 
 [CCTutorialLobbyReminders]
-PU_001=Press <c=ffbe00>W<c=ffffff> to move forward, <c=ffbe00>S<c=ffffff> to move backward, <c=ffbe00>A<c=ffffff> to step left, and <c=ffbe00>D<c=ffffff> to step right by default.
-PU_002=An <c=ffbe00>exclaimation point<c=ffffff> over a character's head indicates they have something to say.  <c=ffbe00>Left-click<c=ffffff> on them to interact.
-PU_003=Report to Sgt. Morris to complete the mission.  He is indicated by a <c=ffbe00>check mark<c=ffffff>.
-PU_004=Talk to Sgt. Morris and accept the mission.
-PU_005=Talk with Sgt. Morris and join the match to enter the battle.
-PU_006=Report to Sgt. Morris to complete the mission.
-PU_007=Go to the character marked by the <c=ffbe00>check mark<c=ffffff> on your map. Press <c=ffbe00>Tab<c=ffffff> to open and close the menu bar.
-PU_008=Go to the character marked by the <c=ffbe00>check mark<c=ffffff> on your radar. Press <c=ffbe00>M<c=ffffff> to view a larger map.
-PU_009=To learn a skill, interact with a skill trainer (Simple Simon) and select a skill to learn.
-PU_009a=Press <c=ffbe00>Tab<c=ffffff> and open the <c=ffbe00>Skills Menu<c=ffffff> to learn the skill.
-PU_010=Press <c=ffbe00>Tab<c=ffffff> and open the <c=ffbe00>Skills Menu<c=ffffff> to equip the skill you just learned.
-PU_011=Now select the skill you just learned and drag it into an available action slot.
-PU_012=Done!  Now talk to Simple Simon again to continue. Press <c=ffbe00>Tab<c=ffffff> to close the menu bar.
+PU_001=Drücke <c=ffbe00>W<c=ffffff> zum vorwärts gehen, <c=ffbe00>S<c=ffffff> zum rückwärts gehen, <c=ffbe00>A<c=ffffff> für einen Schritt nach links, und <c=ffbe00>D<c=ffffff> für einen Schritt nach rechts. (Standard Belegung)
+PU_002=Ein <c=ffbe00>Ausrufezeichen<c=ffffff> über dem Kopf eines Charakters, zeigt an das er etwas zu sagen hat. Mit einem <c=ffbe00>Links Klick<c=ffffff> kannst du mit Ihnen agieren.
+PU_003=Berichte Sgt. Morris um die Mission zu beenden.  Du erkennst ihn an dem <c=ffbe00>Häkchen<c=ffffff> über dem Kopf.
+PU_004=Rede mit Sgt. Morris und akzeptiere die Mission.
+PU_005=Rede mit Sgt. Morris und schließe dich der Partie an, um am Kampf teilzunehmen.
+PU_006=Berichte Sgt. Morris um die Mission zu beenden.
+PU_007=Gehe zu dem Charakter der durch ein <c=ffbe00>Häkchen<c=ffffff> auf deiner Karte markiert ist. Drücke <c=ffbe00>Tab<c=ffffff> um das Menü zu öffnen und zu schließen.
+PU_008=Gehe zu dem Charakter der durch ein <c=ffbe00>Häkchen<c=ffffff> auf deiner Minimap markiert ist. Drücke <c=ffbe00>M<c=ffffff> um die große Karte zu öffnen.
+PU_009=Um einen Skill zu lernen interagiere einfach mit einem Skilltrainer (Simple Simon) und wähle dann den Skill aus den du lernen möchtest.
+PU_009a=Drücke <c=ffbe00>Tab<c=ffffff> und öffne das <c=ffbe00>Skill Menü<c=ffffff> um einen Skill zu lernen.
+PU_010=Drücke <c=ffbe00>Tab<c=ffffff> und öffne das <c=ffbe00>Skill Menü<c=ffffff> um dich mit dem gelernten Skill auszurüsten.
+PU_011=Jetzt wähle den Skill den du grade gelernt hast aus und ziehe in auf einen verfügbaren Aktion Slot.
+PU_012=Fertig!  Nun rede erneut mit Simple Simon um fortzufahren. Drücke <c=ffbe00>Tab<c=ffffff> um das Menü zu schließen.
 PU_013=Municipal Overseers grant access to combat zones. They are marked by <c=ffbe00>red icons<c=ffffff> on the map. Press <c=ffbe00>Tab<c=ffffff> to open and close the menu bar.
 PU_014=Return the samples to Simple Simon to complete the mission.
 PU_015=Find Biggy Honda and talk with him. Remember to press <c=ffbe00>Tab<c=ffffff> to close the menu bar.
